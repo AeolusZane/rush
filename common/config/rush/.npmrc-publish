@@ -18,3 +18,5 @@
 #
 #   //registry.npmjs.org/:_authToken=${NPM_AUTH_TOKEN}
 #
+registry=http://localhost:4873/
+//localhost:4873/:_authToken="hOceqfbD6BZ6B8cx+PZDOA49TGV+5cPbJkgXUWjqCmA="
