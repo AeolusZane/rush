@@ -2,6 +2,18 @@
   "name": "@aeo/components",
   "entries": [
     {
+      "version": "1.0.2",
+      "tag": "@aeo/components_v1.0.2",
+      "date": "Tue, 13 Sep 2022 06:34:11 GMT",
+      "comments": {
+        "patch": [
+          {
+            "comment": "feature components change"
+          }
+        ]
+      }
+    },
+    {
       "version": "1.0.1",
       "tag": "@aeo/components_v1.0.1",
       "date": "Tue, 13 Sep 2022 06:30:44 GMT",
