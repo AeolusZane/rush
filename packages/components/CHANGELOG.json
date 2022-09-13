@@ -1,0 +1,17 @@
+{
+  "name": "@aeo/components",
+  "entries": [
+    {
+      "version": "1.0.1",
+      "tag": "@aeo/components_v1.0.1",
+      "date": "Tue, 13 Sep 2022 06:30:44 GMT",
+      "comments": {
+        "dependency": [
+          {
+            "comment": "Updating dependency \"@aeo/hooks\" to `1.0.1`"
+          }
+        ]
+      }
+    }
+  ]
+}
